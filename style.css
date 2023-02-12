@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-image: url("https://cdn.pixabay.com/photo/2015/12/19/02/12/texture-1099399_960_720.jpg")	;
+
+}
+nav{
+    background-color: #CCAE9B;
+     text-align: center;
+    
+}
+nav a {
+    color: brown;
+   padding: 7px;
+    font-size: 30px;
+    margin: 15px;
+    text-decoration: none;
+}
+header{
+    width: 100%;
+    height: 200px;
+}
+main h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(83, 10, 10);
+}
+footer{
+    background-color: burlywood;
+     width: 100%;
+    height: 200px;
+    text-align: center;
+}
